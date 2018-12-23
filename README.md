@@ -26,3 +26,8 @@ je območje vrednosti od 0 ÷ 255. Kakšne so še ostale možne ločljivosti pre
 a. 12-bitno, od 0 do 4095,
 b. 10-bitno, od 0 do 1023,
 c. 6-bitno, od 0 do 63.
+
+
+
+Komentar:
+kot sem slišal pri sošolcih so morali dodati še de vrstice kode a meni ni bilo potrebno saj je delalo tako kot je napisano v nalogi.
